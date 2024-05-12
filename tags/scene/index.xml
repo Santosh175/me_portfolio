@@ -16,11 +16,11 @@
       <description>Problem Statement A Bank wants to take care of customer retention for its product: savings accounts. The bank wants you to identify customers likely to churn balances below the minimum balance. I have the customers information such as age, gender, demographics along with their transactions with the bank. My task as a data scientist would be to predict the propensity to churn for each customer. Link to Github Repository</description>
     </item>
     <item>
-      <title>Chapter IV: Master Jacques Coppenole</title>
-      <link>https://santosh175.github.io/me_portfolio/post/chapter-4/</link>
+      <title>Plant Seedling Image Classification</title>
+      <link>https://santosh175.github.io/me_portfolio/post/project-0/</link>
       <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
-      <guid>https://santosh175.github.io/me_portfolio/post/chapter-4/</guid>
-      <description>While the pensioner of Ghent and his eminence were exchanging very low bows and a few words in voices still lower, a man of lofty stature, with a large face and broad shoulders, presented himself, in order to enter abreast with Guillaume Rym; one would have pronounced him a bull-dog by the side of a fox. His felt doublet and leather jerkin made a spot on the velvet and silk which surrounded him.</description>
+      <guid>https://santosh175.github.io/me_portfolio/post/project-0/</guid>
+      <description> Problem statement To identify species of a given image (which class it belongs to, out of 12 weed species). To develop a CNN model, trained on “V-2 plant seedlings dataset”. Dataset “V-2 plant seedlings dataset” having 5539 images of crop and weeds. Weeds belongs to 12 different category. </description>
     </item>
     <item>
       <title>Project 1: Data Science Salary Estimator</title>

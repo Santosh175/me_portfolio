@@ -6,14 +6,21 @@
     <description>Recent content in Data Science Portfolio on Santosh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Apr 2023 11:00:59 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jun 2023 11:13:32 -0400</lastBuildDate>
     <atom:link href="https://santosh175.github.io/me_portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project III: Next word prediction using LSTM</title>
+      <title>Face Swap Flask Web App</title>
+      <link>https://santosh175.github.io/me_portfolio/post/project-4/</link>
+      <pubDate>Sun, 11 Jun 2023 11:13:32 -0400</pubDate>
+      <guid>https://santosh175.github.io/me_portfolio/post/project-4/</guid>
+      <description>Link to Github Repository</description>
+    </item>
+    <item>
+      <title>Next word prediction using LSTM</title>
       <link>https://santosh175.github.io/me_portfolio/post/project-3/</link>
       <pubDate>Mon, 10 Apr 2023 11:00:59 -0400</pubDate>
       <guid>https://santosh175.github.io/me_portfolio/post/project-3/</guid>
-      <description>Aim To train and develop an LSTM model on text data to predict the next words in a sentence. Data Required text data has been taken from book ‘The republic’ by Plato. Summary Steps involved in this project Preprocessing Tokenization Vectorization Model Building &amp;amp; Training Production deployment Django AWS cloud deployment </description>
+      <description>Aim To train and develop an LSTM model on text data to predict the next words in a sentence. Data Required text data has been taken from book ‘The republic’ by Plato. Summary Steps involved in this project Preprocessing Tokenization Vectorization Model Building &amp;amp; Training Production deployment Django&#xA;AWS cloud deployment&#xA;![targets](&amp;quot;/images/next_word_interface.png&amp;quot;) </description>
     </item>
     <item>
       <title>Customer churn prediction</title>
@@ -37,18 +44,11 @@
       <description>In the twinkling of an eye, all was ready to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to work. The little chapel situated opposite the marble table was selected for the scene of the grinning match. A pane broken in the pretty rose window above the door, left free a circle of stone through which it was agreed that the competitors should thrust their heads. In order to reach it, it was only necessary to mount upon a couple of hogsheads, which had been produced from I know not where, and perched one upon the other, after a fashion.</description>
     </item>
     <item>
-      <title>Chapter IV: Master Jacques Coppenole</title>
-      <link>https://santosh175.github.io/me_portfolio/post/chapter-4/</link>
+      <title>Plant Seedling Image Classification</title>
+      <link>https://santosh175.github.io/me_portfolio/post/project-0/</link>
       <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
-      <guid>https://santosh175.github.io/me_portfolio/post/chapter-4/</guid>
-      <description>While the pensioner of Ghent and his eminence were exchanging very low bows and a few words in voices still lower, a man of lofty stature, with a large face and broad shoulders, presented himself, in order to enter abreast with Guillaume Rym; one would have pronounced him a bull-dog by the side of a fox. His felt doublet and leather jerkin made a spot on the velvet and silk which surrounded him.</description>
-    </item>
-    <item>
-      <title>Chapter III: Monsieur the Cardinal</title>
-      <link>https://santosh175.github.io/me_portfolio/post/chapter-3/</link>
-      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
-      <guid>https://santosh175.github.io/me_portfolio/post/chapter-3/</guid>
-      <description>Poor Gringoire! the din of all the great double petards of the Saint-Jean, the discharge of twenty arquebuses on supports, the detonation of that famous serpentine of the Tower of Billy, which, during the siege of Paris, on Sunday, the twenty-sixth of September, 1465, killed seven Burgundians at one blow, the explosion of all the powder stored at the gate of the Temple, would have rent his ears less rudely at that solemn and dramatic moment, than these few words, which fell from the lips of the usher, “His eminence, Monseigneur the Cardinal de Bourbon.</description>
+      <guid>https://santosh175.github.io/me_portfolio/post/project-0/</guid>
+      <description> Problem statement To identify species of a given image (which class it belongs to, out of 12 weed species). To develop a CNN model, trained on “V-2 plant seedlings dataset”. Dataset “V-2 plant seedlings dataset” having 5539 images of crop and weeds. Weeds belongs to 12 different category. </description>
     </item>
     <item>
       <title>Project 1: Data Science Salary Estimator</title>
@@ -62,7 +62,7 @@
       <link>https://santosh175.github.io/me_portfolio/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://santosh175.github.io/me_portfolio/about/</guid>
-      <description>Illustration from Victor Hugo et son temps (1881) The Hunchback of Notre-Dame (French: Notre-Dame de Paris) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England.</description>
+      <description>_</description>
     </item>
     <item>
       <title>Contact</title>
