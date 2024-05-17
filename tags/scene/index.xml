@@ -20,7 +20,7 @@
       <link>https://santosh175.github.io/me_portfolio/post/project-0/</link>
       <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
       <guid>https://santosh175.github.io/me_portfolio/post/project-0/</guid>
-      <description> Problem statement To identify species of a given image (which class it belongs to, out of 12 weed species). To develop a CNN model, trained on “V-2 plant seedlings dataset”. Dataset “V-2 plant seedlings dataset” having 5539 images of crop and weeds. Weeds belongs to 12 different category. </description>
+      <description>Problem statement To identify species of a given image (which class it belongs to, out of 12 weed species). To develop a CNN model, trained on “V-2 plant seedlings dataset”. Dataset “V-2 plant seedlings dataset” having 5539 images of crop and weeds. Weeds belongs to 12 different category. Link to Github Repository</description>
     </item>
     <item>
       <title>Project 1: Data Science Salary Estimator</title>

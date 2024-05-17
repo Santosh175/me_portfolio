@@ -20,7 +20,7 @@
       <link>https://santosh175.github.io/me_portfolio/post/project-3/</link>
       <pubDate>Mon, 10 Apr 2023 11:00:59 -0400</pubDate>
       <guid>https://santosh175.github.io/me_portfolio/post/project-3/</guid>
-      <description>Aim To train and develop an LSTM model on text data to predict the next words in a sentence. Data Required text data has been taken from book ‘The republic’ by Plato. Summary Steps involved in this project Preprocessing Tokenization Vectorization Model Building &amp;amp; Training Production deployment Django&#xA;AWS cloud deployment&#xA;![targets](&amp;quot;/images/next_word_interface.png&amp;quot;) </description>
+      <description>Aim To train and develop an LSTM model on text data to predict the next words in a sentence. Data Required text data has been taken from book ‘The republic’ by Plato. Summary Steps involved in this project Preprocessing Tokenization Vectorization Model Building &amp;amp; Training Production deployment Django AWS cloud deployment Link to Github Repository</description>
     </item>
     <item>
       <title>Customer churn prediction</title>
@@ -48,7 +48,7 @@
       <link>https://santosh175.github.io/me_portfolio/post/project-0/</link>
       <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
       <guid>https://santosh175.github.io/me_portfolio/post/project-0/</guid>
-      <description> Problem statement To identify species of a given image (which class it belongs to, out of 12 weed species). To develop a CNN model, trained on “V-2 plant seedlings dataset”. Dataset “V-2 plant seedlings dataset” having 5539 images of crop and weeds. Weeds belongs to 12 different category. </description>
+      <description>Problem statement To identify species of a given image (which class it belongs to, out of 12 weed species). To develop a CNN model, trained on “V-2 plant seedlings dataset”. Dataset “V-2 plant seedlings dataset” having 5539 images of crop and weeds. Weeds belongs to 12 different category. Link to Github Repository</description>
     </item>
     <item>
       <title>Project 1: Data Science Salary Estimator</title>
@@ -62,7 +62,7 @@
       <link>https://santosh175.github.io/me_portfolio/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://santosh175.github.io/me_portfolio/about/</guid>
-      <description>_</description>
+      <description>I am a passionate learner and practitioner of Machine Learning (ML) and Deep Learning (DL), dedicated to harnessing these technologies to solve real-world challenges. My expertise spans a variety of ML applications, including Regression and Classification tasks.&#xA;In the realm of Deep Learning, I have honed my skills in Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Long Short-Term Memory networks (LSTM), and Machine Translation. My technical proficiency is further solidified by my experience with leading deep learning frameworks, TensorFlow and PyTorch.</description>
     </item>
     <item>
       <title>Contact</title>
