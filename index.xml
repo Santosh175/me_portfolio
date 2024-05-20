@@ -37,11 +37,11 @@
       <description>We are delighted to be able to inform the reader, that during the whole of this scene, Gringoire and his piece had stood firm. His actors, spurred on by him, had not ceased to spout his comedy, and he had not ceased to listen to it. He had made up his mind about the tumult, and was determined to proceed to the end, not giving up the hope of a return of attention on the part of the public.</description>
     </item>
     <item>
-      <title>Chapter V: Quasimodo</title>
-      <link>https://santosh175.github.io/me_portfolio/post/chapter-5/</link>
+      <title>ML Job Market Segmentation in India</title>
+      <link>https://santosh175.github.io/me_portfolio/post/project-5/</link>
       <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
-      <guid>https://santosh175.github.io/me_portfolio/post/chapter-5/</guid>
-      <description>In the twinkling of an eye, all was ready to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to work. The little chapel situated opposite the marble table was selected for the scene of the grinning match. A pane broken in the pretty rose window above the door, left free a circle of stone through which it was agreed that the competitors should thrust their heads. In order to reach it, it was only necessary to mount upon a couple of hogsheads, which had been produced from I know not where, and perched one upon the other, after a fashion.</description>
+      <guid>https://santosh175.github.io/me_portfolio/post/project-5/</guid>
+      <description>Aim: 1.To enable the company to recognize best fit candidate for ml engineer/data analyst with respect to his /her skills.&#xA;2.To analyse the ml job market in India and outline the most optimal segment to apply for ml jobs.&#xA;Dataset EDA Followed different data cleaning &amp;amp; pre-processing techniques Model &amp;amp; Training Used K-means clustering Link to Github Repository</description>
     </item>
     <item>
       <title>Plant Seedling Image Classification</title>
@@ -51,11 +51,11 @@
       <description>Problem statement To identify species of a given image (which class it belongs to, out of 12 weed species). To develop a CNN model, trained on “V-2 plant seedlings dataset”. Dataset “V-2 plant seedlings dataset” having 5539 images of crop and weeds. Weeds belongs to 12 different category. Link to Github Repository</description>
     </item>
     <item>
-      <title>Project 1: Data Science Salary Estimator</title>
+      <title> Fashion Image Classifier using Keras </title>
       <link>https://santosh175.github.io/me_portfolio/post/project-1/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       <guid>https://santosh175.github.io/me_portfolio/post/project-1/</guid>
-      <description>Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job. Scraped over 1000 job descriptions from glassdoor using python and selenium. Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.</description>
+      <description>Problem Statement It is an example of multi class classification problem . Here, our model has to classify a given fashion image into which class it belongs to out of 10 classes. It is a simple neural network model , trained on Fashion MNIST dataset. It has been implemented using Keras Sequential API. Dataset It is a dataset of 70,000 grayscale images of 28*28 pixels each, with 10 classes. It is very similar to MNIST dataset but here each class is more diverse and thus problem is comparatively more challenging.</description>
     </item>
     <item>
       <title>About</title>
