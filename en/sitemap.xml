@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://santosh175.github.io/me_portfolio/</loc>
-    <lastmod>2023-06-11T11:13:32-04:00</lastmod>
+    <lastmod>2024-06-14T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -16,6 +16,11 @@
                 hreflang="en"
                 href="https://santosh175.github.io/me_portfolio/"
                 />
+  </url><url>
+    <loc>https://santosh175.github.io/me_portfolio/post/project-6/</loc>
+    <lastmod>2024-06-14T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://santosh175.github.io/me_portfolio/post/project-4/</loc>
     <lastmod>2023-06-11T11:13:32-04:00</lastmod>
@@ -61,11 +66,6 @@
                 hreflang="en"
                 href="https://santosh175.github.io/me_portfolio/tags/"
                 />
-  </url><url>
-    <loc>https://santosh175.github.io/me_portfolio/post/chapter-6/</loc>
-    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url><url>
     <loc>https://santosh175.github.io/me_portfolio/post/project-5/</loc>
     <lastmod>2017-04-13T11:15:58-04:00</lastmod>

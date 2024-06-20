@@ -6,8 +6,15 @@
     <description>Recent content in Data Science Portfolio on Santosh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Jun 2023 11:13:32 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 11:25:05 -0400</lastBuildDate>
     <atom:link href="https://santosh175.github.io/me_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Udemy Course Recommendation System</title>
+      <link>https://santosh175.github.io/me_portfolio/post/project-6/</link>
+      <pubDate>Fri, 14 Jun 2024 11:25:05 -0400</pubDate>
+      <guid>https://santosh175.github.io/me_portfolio/post/project-6/</guid>
+      <description>This system recommends Udemy courses based on user query text.&#xA;Features NLP Cosine Similarity: Utilizes NLP cosine similarity to find similar courses. Flask Server Integration: The system is integrated with a Flask server. Interactive Dashboard: Includes an interactive dashboard using JavaScript. Link to Github Repository</description>
+    </item>
     <item>
       <title>Face Swap Flask Web App</title>
       <link>https://santosh175.github.io/me_portfolio/post/project-4/</link>
@@ -28,13 +35,6 @@
       <pubDate>Sun, 09 Apr 2023 10:58:08 -0400</pubDate>
       <guid>https://santosh175.github.io/me_portfolio/post/project-2/</guid>
       <description>Problem Statement A Bank wants to take care of customer retention for its product: savings accounts. The bank wants you to identify customers likely to churn balances below the minimum balance. I have the customers information such as age, gender, demographics along with their transactions with the bank. My task as a data scientist would be to predict the propensity to churn for each customer. Link to Github Repository</description>
-    </item>
-    <item>
-      <title>Chapter VI: Esmeralda</title>
-      <link>https://santosh175.github.io/me_portfolio/post/chapter-6/</link>
-      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
-      <guid>https://santosh175.github.io/me_portfolio/post/chapter-6/</guid>
-      <description>We are delighted to be able to inform the reader, that during the whole of this scene, Gringoire and his piece had stood firm. His actors, spurred on by him, had not ceased to spout his comedy, and he had not ceased to listen to it. He had made up his mind about the tumult, and was determined to proceed to the end, not giving up the hope of a return of attention on the part of the public.</description>
     </item>
     <item>
       <title>ML Job Market Segmentation in India</title>
