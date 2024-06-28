@@ -20,7 +20,7 @@
       <link>https://santosh175.github.io/me_portfolio/post/project-4/</link>
       <pubDate>Sun, 11 Jun 2023 11:13:32 -0400</pubDate>
       <guid>https://santosh175.github.io/me_portfolio/post/project-4/</guid>
-      <description>Link to Github Repository</description>
+      <description>🎯 Aim Swap faces from a source image to a given destination image.&#xA;✨ Features 🖼️ Extracts human faces using OpenCV and dlib. 📍 Utilizes a pretrained model to extract facial landmarks. 🌐 Implements a web application using Flask. 🛠️ Technologies Used OpenCV: For image processing and face detection. dlib: For extracting facial landmarks. Flask: For creating the web application. 🙏 Acknowledgements OpenCV dlib Flask Link to Github Repository</description>
     </item>
     <item>
       <title>Next word prediction using LSTM</title>
