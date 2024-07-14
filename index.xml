@@ -13,7 +13,7 @@
       <link>https://santosh175.github.io/me_portfolio/post/project-7/</link>
       <pubDate>Fri, 14 Jun 2024 11:25:05 -0400</pubDate>
       <guid>https://santosh175.github.io/me_portfolio/post/project-7/</guid>
-      <description>Translate English sentences into Spanish one . Uses Encoder-Decoder network architecture for language translation. Integrated with Django server as fully functional web app. Uses LSTM as a model (working on attention model to replace it.) Link to Github Repository</description>
+      <description>Translate English sentences into Spanish one . Uses Encoder-Decoder network architecture for language translation. Integrated with Django server as fully functional web app. Uses LSTM as a model (working on attention model to replace it). Link to Github Repository</description>
     </item>
     <item>
       <title>Udemy Course Recommendation System</title>
