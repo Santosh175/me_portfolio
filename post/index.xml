@@ -23,6 +23,13 @@
       <description>This system recommends Udemy courses based on user query text.&#xA;Features NLP Cosine Similarity: Utilizes NLP cosine similarity to find similar courses. Flask Server Integration: The system is integrated with a Flask server. Interactive Dashboard: Includes an interactive dashboard using JavaScript. Link to Github Repository</description>
     </item>
     <item>
+      <title>Udemy Course Recommendation System</title>
+      <link>https://santosh175.github.io/me_portfolio/post/project-8/</link>
+      <pubDate>Fri, 14 Jun 2024 11:25:05 -0400</pubDate>
+      <guid>https://santosh175.github.io/me_portfolio/post/project-8/</guid>
+      <description>This system recommends Udemy courses based on user query text.&#xA;#&#xA;Features NLP Cosine Similarity: Utilizes NLP cosine similarity to find similar courses. Flask Server Integration: The system is integrated with a Flask server. Interactive Dashboard: Includes an interactive dashboard using JavaScript. Link to Github Repository</description>
+    </item>
+    <item>
       <title>Face Swap Flask Web App</title>
       <link>https://santosh175.github.io/me_portfolio/post/project-4/</link>
       <pubDate>Sun, 11 Jun 2023 11:13:32 -0400</pubDate>
