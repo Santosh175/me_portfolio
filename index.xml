@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science Portfolio on Santosh</title>
-    <link>http://localhost:1313/me_portfolio/</link>
+    <link>https://santosh175.github.io/me_portfolio/</link>
     <description>Recent content in Data Science Portfolio on Santosh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 14 Jun 2024 11:25:05 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/me_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://santosh175.github.io/me_portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>English-Spanish language translation Django APP</title>
-      <link>http://localhost:1313/me_portfolio/post/project-7/</link>
+      <link>https://santosh175.github.io/me_portfolio/post/project-7/</link>
       <pubDate>Fri, 14 Jun 2024 11:25:05 -0400</pubDate>
-      <guid>http://localhost:1313/me_portfolio/post/project-7/</guid>
+      <guid>https://santosh175.github.io/me_portfolio/post/project-7/</guid>
       <description>Translate English sentences into Spanish one . Uses Encoder-Decoder network architecture for language translation. Integrated with Django server as fully functional web app. Uses LSTM as a model (working on attention model to replace it). Link to Github Repository</description>
     </item>
     <item>
       <title>Udemy Course Recommendation System</title>
-      <link>http://localhost:1313/me_portfolio/post/project-6/</link>
+      <link>https://santosh175.github.io/me_portfolio/post/project-6/</link>
       <pubDate>Fri, 14 Jun 2024 11:25:05 -0400</pubDate>
-      <guid>http://localhost:1313/me_portfolio/post/project-6/</guid>
+      <guid>https://santosh175.github.io/me_portfolio/post/project-6/</guid>
       <description>This system recommends Udemy courses based on user query text.&#xA;Features NLP Cosine Similarity: Utilizes NLP cosine similarity to find similar courses. Flask Server Integration: The system is integrated with a Flask server. Interactive Dashboard: Includes an interactive dashboard using JavaScript. Link to Github Repository</description>
     </item>
     <item>
       <title>Face Swap Flask Web App</title>
-      <link>http://localhost:1313/me_portfolio/post/project-4/</link>
+      <link>https://santosh175.github.io/me_portfolio/post/project-4/</link>
       <pubDate>Sun, 11 Jun 2023 11:13:32 -0400</pubDate>
-      <guid>http://localhost:1313/me_portfolio/post/project-4/</guid>
+      <guid>https://santosh175.github.io/me_portfolio/post/project-4/</guid>
       <description>🎯 Aim Swap faces from a source image to a given destination image.&#xA;✨ Features 🖼️ Extracts human faces using OpenCV and dlib. 📍 Utilizes a pretrained model to extract facial landmarks. 🌐 Implements a web application using Flask. 🛠️ Technologies Used OpenCV: For image processing and face detection. dlib: For extracting facial landmarks. Flask: For creating the web application. 🙏 Acknowledgements OpenCV dlib Flask Link to Github Repository</description>
     </item>
     <item>
       <title>Next word prediction using LSTM</title>
-      <link>http://localhost:1313/me_portfolio/post/project-3/</link>
+      <link>https://santosh175.github.io/me_portfolio/post/project-3/</link>
       <pubDate>Mon, 10 Apr 2023 11:00:59 -0400</pubDate>
-      <guid>http://localhost:1313/me_portfolio/post/project-3/</guid>
+      <guid>https://santosh175.github.io/me_portfolio/post/project-3/</guid>
       <description>Aim To train and develop an LSTM model on text data to predict the next words in a sentence. Data Required text data has been taken from book ‘The republic’ by Plato. Summary Steps involved in this project Preprocessing Tokenization Vectorization Model Building &amp;amp; Training Production deployment Django AWS cloud deployment Link to Github Repository</description>
     </item>
     <item>
       <title>Customer churn prediction</title>
-      <link>http://localhost:1313/me_portfolio/post/project-2/</link>
+      <link>https://santosh175.github.io/me_portfolio/post/project-2/</link>
       <pubDate>Sun, 09 Apr 2023 10:58:08 -0400</pubDate>
-      <guid>http://localhost:1313/me_portfolio/post/project-2/</guid>
+      <guid>https://santosh175.github.io/me_portfolio/post/project-2/</guid>
       <description>Problem Statement A Bank wants to take care of customer retention for its product: savings accounts. The bank wants you to identify customers likely to churn balances below the minimum balance. I have the customers information such as age, gender, demographics along with their transactions with the bank. My task as a data scientist would be to predict the propensity to churn for each customer. Link to Github Repository</description>
     </item>
     <item>
       <title>ML Job Market Segmentation in India</title>
-      <link>http://localhost:1313/me_portfolio/post/project-5/</link>
+      <link>https://santosh175.github.io/me_portfolio/post/project-5/</link>
       <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
-      <guid>http://localhost:1313/me_portfolio/post/project-5/</guid>
+      <guid>https://santosh175.github.io/me_portfolio/post/project-5/</guid>
       <description>Aim: 1.To enable the company to recognize best fit candidate for ml engineer/data analyst with respect to his /her skills.&#xA;2.To analyse the ml job market in India and outline the most optimal segment to apply for ml jobs.&#xA;Dataset EDA Followed different data cleaning &amp;amp; pre-processing techniques Model &amp;amp; Training Used K-means clustering Link to Github Repository</description>
     </item>
     <item>
       <title>Plant Seedling Image Classification</title>
-      <link>http://localhost:1313/me_portfolio/post/project-0/</link>
+      <link>https://santosh175.github.io/me_portfolio/post/project-0/</link>
       <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
-      <guid>http://localhost:1313/me_portfolio/post/project-0/</guid>
+      <guid>https://santosh175.github.io/me_portfolio/post/project-0/</guid>
       <description>Problem statement To identify species of a given image (which class it belongs to, out of 12 weed species). To develop a CNN model, trained on “V-2 plant seedlings dataset”. Dataset “V-2 plant seedlings dataset” having 5539 images of crop and weeds. Weeds belongs to 12 different category. Link to Github Repository</description>
     </item>
     <item>
       <title> Fashion Image Classifier using Keras </title>
-      <link>http://localhost:1313/me_portfolio/post/project-1/</link>
+      <link>https://santosh175.github.io/me_portfolio/post/project-1/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      <guid>http://localhost:1313/me_portfolio/post/project-1/</guid>
+      <guid>https://santosh175.github.io/me_portfolio/post/project-1/</guid>
       <description>Problem Statement It is an example of multi class classification problem . Here, our model has to classify a given fashion image into which class it belongs to out of 10 classes. It is a simple neural network model , trained on Fashion MNIST dataset. It has been implemented using Keras Sequential API. Dataset It is a dataset of 70,000 grayscale images of 28*28 pixels each, with 10 classes. It is very similar to MNIST dataset but here each class is more diverse and thus problem is comparatively more challenging.</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/me_portfolio/about/</link>
+      <link>https://santosh175.github.io/me_portfolio/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/me_portfolio/about/</guid>
+      <guid>https://santosh175.github.io/me_portfolio/about/</guid>
       <description>I am a passionate learner and practitioner of Machine Learning (ML) and Deep Learning (DL), dedicated to harnessing these technologies to solve real-world challenges. My expertise spans a variety of ML applications, including Regression and Classification tasks.&#xA;In the realm of Deep Learning, I have honed my skills in Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Long Short-Term Memory networks (LSTM), and Machine Translation. My technical proficiency is further solidified by my experience with leading deep learning frameworks, TensorFlow and PyTorch.</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/me_portfolio/contact/</link>
+      <link>https://santosh175.github.io/me_portfolio/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/me_portfolio/contact/</guid>
+      <guid>https://santosh175.github.io/me_portfolio/contact/</guid>
       <description>Follow me on these social media platform.&#xA;Platform URL Linkedin: www.linkedin.com/in/santoshai Github: https://github.com/Santosh175 </description>
     </item>
   </channel>

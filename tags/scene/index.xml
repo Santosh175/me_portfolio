@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scene on Santosh</title>
-    <link>http://localhost:1313/me_portfolio/tags/scene/</link>
+    <link>https://santosh175.github.io/me_portfolio/tags/scene/</link>
     <description>Recent content in Scene on Santosh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 09 Apr 2023 10:58:08 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/me_portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://santosh175.github.io/me_portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Customer churn prediction</title>
-      <link>http://localhost:1313/me_portfolio/post/project-2/</link>
+      <link>https://santosh175.github.io/me_portfolio/post/project-2/</link>
       <pubDate>Sun, 09 Apr 2023 10:58:08 -0400</pubDate>
-      <guid>http://localhost:1313/me_portfolio/post/project-2/</guid>
+      <guid>https://santosh175.github.io/me_portfolio/post/project-2/</guid>
       <description>Problem Statement A Bank wants to take care of customer retention for its product: savings accounts. The bank wants you to identify customers likely to churn balances below the minimum balance. I have the customers information such as age, gender, demographics along with their transactions with the bank. My task as a data scientist would be to predict the propensity to churn for each customer. Link to Github Repository</description>
     </item>
     <item>
       <title>ML Job Market Segmentation in India</title>
-      <link>http://localhost:1313/me_portfolio/post/project-5/</link>
+      <link>https://santosh175.github.io/me_portfolio/post/project-5/</link>
       <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
-      <guid>http://localhost:1313/me_portfolio/post/project-5/</guid>
+      <guid>https://santosh175.github.io/me_portfolio/post/project-5/</guid>
       <description>Aim: 1.To enable the company to recognize best fit candidate for ml engineer/data analyst with respect to his /her skills.&#xA;2.To analyse the ml job market in India and outline the most optimal segment to apply for ml jobs.&#xA;Dataset EDA Followed different data cleaning &amp;amp; pre-processing techniques Model &amp;amp; Training Used K-means clustering Link to Github Repository</description>
     </item>
     <item>
       <title>Plant Seedling Image Classification</title>
-      <link>http://localhost:1313/me_portfolio/post/project-0/</link>
+      <link>https://santosh175.github.io/me_portfolio/post/project-0/</link>
       <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
-      <guid>http://localhost:1313/me_portfolio/post/project-0/</guid>
+      <guid>https://santosh175.github.io/me_portfolio/post/project-0/</guid>
       <description>Problem statement To identify species of a given image (which class it belongs to, out of 12 weed species). To develop a CNN model, trained on “V-2 plant seedlings dataset”. Dataset “V-2 plant seedlings dataset” having 5539 images of crop and weeds. Weeds belongs to 12 different category. Link to Github Repository</description>
     </item>
     <item>
       <title> Fashion Image Classifier using Keras </title>
-      <link>http://localhost:1313/me_portfolio/post/project-1/</link>
+      <link>https://santosh175.github.io/me_portfolio/post/project-1/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      <guid>http://localhost:1313/me_portfolio/post/project-1/</guid>
+      <guid>https://santosh175.github.io/me_portfolio/post/project-1/</guid>
       <description>Problem Statement It is an example of multi class classification problem . Here, our model has to classify a given fashion image into which class it belongs to out of 10 classes. It is a simple neural network model , trained on Fashion MNIST dataset. It has been implemented using Keras Sequential API. Dataset It is a dataset of 70,000 grayscale images of 28*28 pixels each, with 10 classes. It is very similar to MNIST dataset but here each class is more diverse and thus problem is comparatively more challenging.</description>
     </item>
   </channel>

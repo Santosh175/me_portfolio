@@ -2,97 +2,97 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/me_portfolio/fr/</loc>
+    <loc>https://santosh175.github.io/me_portfolio/fr/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/me_portfolio/"
+                href="https://santosh175.github.io/me_portfolio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/me_portfolio/fr/"
+                href="https://santosh175.github.io/me_portfolio/fr/"
                 />
   </url><url>
-    <loc>http://localhost:1313/me_portfolio/fr/post/chapter-1/</loc>
+    <loc>https://santosh175.github.io/me_portfolio/fr/post/chapter-1/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/me_portfolio/fr/tags/scene/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/me_portfolio/tags/scene/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/me_portfolio/fr/tags/scene/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/me_portfolio/fr/tags/</loc>
+    <loc>https://santosh175.github.io/me_portfolio/fr/tags/scene/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/me_portfolio/tags/"
+                href="https://santosh175.github.io/me_portfolio/tags/scene/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/me_portfolio/fr/tags/"
+                href="https://santosh175.github.io/me_portfolio/fr/tags/scene/"
                 />
   </url><url>
-    <loc>http://localhost:1313/me_portfolio/fr/post/</loc>
+    <loc>https://santosh175.github.io/me_portfolio/fr/tags/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://santosh175.github.io/me_portfolio/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://santosh175.github.io/me_portfolio/fr/tags/"
+                />
+  </url><url>
+    <loc>https://santosh175.github.io/me_portfolio/fr/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/me_portfolio/post/"
+                href="https://santosh175.github.io/me_portfolio/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/me_portfolio/fr/post/"
+                href="https://santosh175.github.io/me_portfolio/fr/post/"
                 />
   </url><url>
-    <loc>http://localhost:1313/me_portfolio/fr/categories/</loc>
+    <loc>https://santosh175.github.io/me_portfolio/fr/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/me_portfolio/categories/"
+                href="https://santosh175.github.io/me_portfolio/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/me_portfolio/fr/categories/"
+                href="https://santosh175.github.io/me_portfolio/fr/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/me_portfolio/fr/contact/</loc>
+    <loc>https://santosh175.github.io/me_portfolio/fr/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/me_portfolio/contact/"
+                href="https://santosh175.github.io/me_portfolio/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/me_portfolio/fr/contact/"
+                href="https://santosh175.github.io/me_portfolio/fr/contact/"
                 />
   </url>
 </urlset>
