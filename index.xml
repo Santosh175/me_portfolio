@@ -10,9 +10,9 @@
     <atom:link href="https://santosh175.github.io/me_portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>English-Spanish language translation Django APP</title>
-      <link>https://santosh175.github.io/me_portfolio/post/project-7/</link>
+      <link>https://santosh175.github.io/me_portfolio/post/project-8/</link>
       <pubDate>Fri, 14 Jun 2024 11:25:05 -0400</pubDate>
-      <guid>https://santosh175.github.io/me_portfolio/post/project-7/</guid>
+      <guid>https://santosh175.github.io/me_portfolio/post/project-8/</guid>
       <description>This web app translate English sentence into corresponding Spanish one.&#xA;Features Translate English sentences into Spanish one . Uses Encoder-Decoder network architecture for language translation. Integrated with Django server as fully functional web app. Uses LSTM as a model (working on attention model to replace it). Link to Github Repository</description>
     </item>
     <item>
@@ -21,13 +21,6 @@
       <pubDate>Fri, 14 Jun 2024 11:25:05 -0400</pubDate>
       <guid>https://santosh175.github.io/me_portfolio/post/project-6/</guid>
       <description>This system recommends Udemy courses based on user query text.&#xA;Features NLP Cosine Similarity: Utilizes NLP cosine similarity to find similar courses. Flask Server Integration: The system is integrated with a Flask server. Interactive Dashboard: Includes an interactive dashboard using JavaScript. Link to Github Repository</description>
-    </item>
-    <item>
-      <title>Udemy Course Recommendation System</title>
-      <link>https://santosh175.github.io/me_portfolio/post/project-8/</link>
-      <pubDate>Fri, 14 Jun 2024 11:25:05 -0400</pubDate>
-      <guid>https://santosh175.github.io/me_portfolio/post/project-8/</guid>
-      <description>This system recommends Udemy courses based on user query text.&#xA;#&#xA;Features NLP Cosine Similarity: Utilizes NLP cosine similarity to find similar courses. Flask Server Integration: The system is integrated with a Flask server. Interactive Dashboard: Includes an interactive dashboard using JavaScript. Link to Github Repository</description>
     </item>
     <item>
       <title>Face Swap Flask Web App</title>
