@@ -9,6 +9,13 @@
     <lastBuildDate>Fri, 14 Jun 2024 11:25:05 -0400</lastBuildDate>
     <atom:link href="https://santosh175.github.io/me_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>🌟Text_to_Image Streamlit Web App🌟</title>
+      <link>https://santosh175.github.io/me_portfolio/post/project-10/</link>
+      <pubDate>Fri, 14 Jun 2024 11:25:05 -0400</pubDate>
+      <guid>https://santosh175.github.io/me_portfolio/post/project-10/</guid>
+      <description>🚀 Features 🖼️ Text Prompt to Image Generation Input: Users can enter a text prompt to describe the desired image. Output: The app generates an image based on the provided text prompt. 🧠 Model Selection Variety of Models: Users can choose from a set of models for image generation. Flexibility: Each model offers unique capabilities and styles, providing flexibility in image creation. 📄 High-Quality Image Download PDF Format: Generated images can be downloaded in high-quality PDF format.</description>
+    </item>
+    <item>
       <title>English-Spanish language translation Django APP</title>
       <link>https://santosh175.github.io/me_portfolio/post/project-8/</link>
       <pubDate>Fri, 14 Jun 2024 11:25:05 -0400</pubDate>
@@ -63,6 +70,13 @@
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       <guid>https://santosh175.github.io/me_portfolio/post/project-1/</guid>
       <description>Problem Statement It is an example of multi class classification problem . Here, our model has to classify a given fashion image into which class it belongs to out of 10 classes. It is a simple neural network model , trained on Fashion MNIST dataset. It has been implemented using Keras Sequential API. Dataset It is a dataset of 70,000 grayscale images of 28*28 pixels each, with 10 classes. It is very similar to MNIST dataset but here each class is more diverse and thus problem is comparatively more challenging.</description>
+    </item>
+    <item>
+      <title>Conversational-Agent-for-Automated-Daily-Report-Generation </title>
+      <link>https://santosh175.github.io/me_portfolio/post/project-9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://santosh175.github.io/me_portfolio/post/project-9/</guid>
+      <description>Project Overview This project aims to automate the generation and distribution of daily sales reports using a simple conversational agent. The agent interacts in a natural chat interface, making the process seamless and user-friendly.&#xA;Features 📊 Extract Data Task: Extract data from the sales spreadsheet. Description: The agent pulls the latest sales data from a predefined spreadsheet, ensuring that the report is always up-to-date. 📝 Generate Report Task: Generate a daily sales report in PDF format.</description>
     </item>
   </channel>
 </rss>
